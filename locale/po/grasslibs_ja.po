@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grasslibs_ja\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-15 15:40+0000\n"
+"POT-Creation-Date: 2026-03-01 17:30+0000\n"
 "PO-Revision-Date: 2025-08-23 20:18+0000\n"
 "Last-Translator: Edouard Choiniere <echoix@users.noreply.weblate.osgeo.org>\n"
 "Language-Team: Japanese <https://weblate.osgeo.org/projects/grass-gis/grasslibs/ja/>\n"
@@ -8987,9 +8987,6 @@ msgstr ""
 msgid "Unknown query tool"
 msgstr "不明な問い合わせツール"
 
-#~ msgid "enabled"
-#~ msgstr "有効化"
-
 #~ msgid "Absurd polygon."
 #~ msgstr "不正なポリゴン"
 
@@ -9212,6 +9209,9 @@ msgstr "不明な問い合わせツール"
 
 #~ msgid "color"
 #~ msgstr "カラー"
+
+#~ msgid "enabled"
+#~ msgstr "有効化"
 
 #~ msgid "invalid color name"
 #~ msgstr "無効なカラー名"
