@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grasswxpy_ru\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-15 15:40+0000\n"
+"POT-Creation-Date: 2026-03-01 17:35+0000\n"
 "PO-Revision-Date: 2023-06-28 19:08+0000\n"
 "Last-Translator: Sergey Kazorin <kazorin@basealt.ru>\n"
 "Language-Team: Russian <https://weblate.osgeo.org/projects/grass-gis/grasswxpy/ru/>\n"
@@ -198,9 +198,9 @@ msgstr "Выберите двухмерный или трёхмерный вид
 
 #: ../gui/wxpython/animation/dialogs.py:415
 #: ../gui/wxpython/gmodeler/preferences.py:730
-#: ../gui/wxpython/gui_core/gselect.py:1629
-#: ../gui/wxpython/gui_core/gselect.py:1646
-#: ../gui/wxpython/gui_core/gselect.py:1647
+#: ../gui/wxpython/gui_core/gselect.py:1633
+#: ../gui/wxpython/gui_core/gselect.py:1650
+#: ../gui/wxpython/gui_core/gselect.py:1651
 #: ../gui/wxpython/gui_core/widgets.py:1462
 #: ../gui/wxpython/vnet/dialogs.py:1679
 msgid "Name:"
@@ -252,11 +252,11 @@ msgstr "Выберите файл проекта для импорта пара�
 #: ../gui/wxpython/animation/dialogs.py:1278
 #: ../gui/wxpython/gui_core/forms.py:2009
 #: ../gui/wxpython/gui_core/forms.py:2120
-#: ../gui/wxpython/gui_core/gselect.py:1245
-#: ../gui/wxpython/gui_core/gselect.py:1561
-#: ../gui/wxpython/gui_core/gselect.py:1578
-#: ../gui/wxpython/gui_core/gselect.py:1631
-#: ../gui/wxpython/gui_core/gselect.py:1666
+#: ../gui/wxpython/gui_core/gselect.py:1249
+#: ../gui/wxpython/gui_core/gselect.py:1565
+#: ../gui/wxpython/gui_core/gselect.py:1582
+#: ../gui/wxpython/gui_core/gselect.py:1635
+#: ../gui/wxpython/gui_core/gselect.py:1670
 #: ../gui/wxpython/location_wizard/wizard.py:1446
 #: ../gui/wxpython/location_wizard/wizard.py:1801
 #: ../gui/wxpython/modules/import_export.py:862
@@ -454,8 +454,8 @@ msgid "File format:"
 msgstr "Формат файла:"
 
 #: ../gui/wxpython/animation/dialogs.py:1194
-#: ../gui/wxpython/gui_core/gselect.py:1576
-#: ../gui/wxpython/gui_core/gselect.py:1664
+#: ../gui/wxpython/gui_core/gselect.py:1580
+#: ../gui/wxpython/gui_core/gselect.py:1668
 msgid "Directory:"
 msgstr "Каталог:"
 
@@ -2314,7 +2314,7 @@ msgid "Data type"
 msgstr "Тип данных"
 
 #: ../gui/wxpython/dbmgr/base.py:3051 ../gui/wxpython/dbmgr/base.py:3203
-#: ../gui/wxpython/dbmgr/base.py:3471 ../gui/wxpython/gui_core/gselect.py:1479
+#: ../gui/wxpython/dbmgr/base.py:3471 ../gui/wxpython/gui_core/gselect.py:1483
 msgid "Database"
 msgstr "База данных"
 
@@ -3726,13 +3726,13 @@ msgid "Delete all"
 msgstr "Удалить всё"
 
 #: ../gui/wxpython/gmodeler/dialogs.py:983
-#: ../gui/wxpython/gui_core/gselect.py:2294
+#: ../gui/wxpython/gui_core/gselect.py:2298
 #: ../gui/wxpython/location_wizard/wizard.py:981
 msgid "No"
 msgstr "Нет"
 
 #: ../gui/wxpython/gmodeler/dialogs.py:983
-#: ../gui/wxpython/gui_core/gselect.py:2294
+#: ../gui/wxpython/gui_core/gselect.py:2298
 #: ../gui/wxpython/location_wizard/wizard.py:981
 msgid "Yes"
 msgstr "Да"
@@ -4875,7 +4875,7 @@ msgid "Enter file content directly instead of specifying a file. Temporary file 
 msgstr "Введите значения напрямую вместо указания файла. Временный файл будет создан автоматически."
 
 #: ../gui/wxpython/gui_core/forms.py:2119
-#: ../gui/wxpython/gui_core/gselect.py:1475
+#: ../gui/wxpython/gui_core/gselect.py:1479
 msgid "Directory"
 msgstr "Каталог"
 
@@ -5184,182 +5184,182 @@ msgstr ""
 msgid "No table linked to layer <{}>."
 msgstr "Таблицы не связаны со слоем <{}>."
 
-#: ../gui/wxpython/gui_core/gselect.py:1244
+#: ../gui/wxpython/gui_core/gselect.py:1248
 #: ../gui/wxpython/image2target/ii2t_gis_set.py:1017
 msgid "Choose GIS Data Directory"
 msgstr "Выбор каталога данных ГИС"
 
-#: ../gui/wxpython/gui_core/gselect.py:1456
+#: ../gui/wxpython/gui_core/gselect.py:1460
 msgid "Output settings"
 msgstr "Параметры вывода"
 
-#: ../gui/wxpython/gui_core/gselect.py:1458
+#: ../gui/wxpython/gui_core/gselect.py:1462
 msgid "Source input"
 msgstr "Источник"
 
-#: ../gui/wxpython/gui_core/gselect.py:1465
+#: ../gui/wxpython/gui_core/gselect.py:1469
 msgid "Native"
 msgstr "Оригинальный"
 
-#: ../gui/wxpython/gui_core/gselect.py:1471
+#: ../gui/wxpython/gui_core/gselect.py:1475
 #: ../gui/wxpython/lmgr/workspace.py:517
 msgid "File"
 msgstr "Файл"
 
-#: ../gui/wxpython/gui_core/gselect.py:1483
+#: ../gui/wxpython/gui_core/gselect.py:1487
 msgid "Protocol"
 msgstr "Протокол"
 
-#: ../gui/wxpython/gui_core/gselect.py:1494
+#: ../gui/wxpython/gui_core/gselect.py:1498
 msgid "Output type"
 msgstr "Тип вывода"
 
-#: ../gui/wxpython/gui_core/gselect.py:1496
+#: ../gui/wxpython/gui_core/gselect.py:1500
 msgid "Source type"
 msgstr "Тип источника"
 
-#: ../gui/wxpython/gui_core/gselect.py:1514
+#: ../gui/wxpython/gui_core/gselect.py:1518
 msgid "All files"
 msgstr "Все файлы"
 
-#: ../gui/wxpython/gui_core/gselect.py:1544
+#: ../gui/wxpython/gui_core/gselect.py:1548
 msgid "ZIP files"
 msgstr "Файлы ZIP"
 
-#: ../gui/wxpython/gui_core/gselect.py:1545
+#: ../gui/wxpython/gui_core/gselect.py:1549
 msgid "GZIP files"
 msgstr "Файлы GZIP"
 
-#: ../gui/wxpython/gui_core/gselect.py:1546
+#: ../gui/wxpython/gui_core/gselect.py:1550
 msgid "TAR files"
 msgstr "Файлы TAR"
 
-#: ../gui/wxpython/gui_core/gselect.py:1550
+#: ../gui/wxpython/gui_core/gselect.py:1554
 msgid "TARGZ files"
 msgstr "Файлы TARGZ"
 
-#: ../gui/wxpython/gui_core/gselect.py:1559
+#: ../gui/wxpython/gui_core/gselect.py:1563
 msgid "File:"
 msgstr "Файл:"
 
-#: ../gui/wxpython/gui_core/gselect.py:1560
+#: ../gui/wxpython/gui_core/gselect.py:1564
 msgid "Choose file to import"
 msgstr "Выбор файлов для импорта"
 
-#: ../gui/wxpython/gui_core/gselect.py:1577
-#: ../gui/wxpython/gui_core/gselect.py:1665
+#: ../gui/wxpython/gui_core/gselect.py:1581
+#: ../gui/wxpython/gui_core/gselect.py:1669
 msgid "Choose input directory"
 msgstr "Выбор входного каталога"
 
-#: ../gui/wxpython/gui_core/gselect.py:1598
+#: ../gui/wxpython/gui_core/gselect.py:1602
 msgid "Extension:"
 msgstr "Расширение:"
 
-#: ../gui/wxpython/gui_core/gselect.py:1630
+#: ../gui/wxpython/gui_core/gselect.py:1634
 msgid "Choose file"
 msgstr "Выбор файла"
 
-#: ../gui/wxpython/gui_core/gselect.py:1651
-#: ../gui/wxpython/gui_core/gselect.py:2777
+#: ../gui/wxpython/gui_core/gselect.py:1655
+#: ../gui/wxpython/gui_core/gselect.py:2781
 msgid "Feature type:"
 msgstr "Тип объекта:"
 
-#: ../gui/wxpython/gui_core/gselect.py:1652
+#: ../gui/wxpython/gui_core/gselect.py:1656
 msgid "simple features"
 msgstr "простые объекты"
 
-#: ../gui/wxpython/gui_core/gselect.py:1652
+#: ../gui/wxpython/gui_core/gselect.py:1656
 msgid "topological"
 msgstr "топологические"
 
-#: ../gui/wxpython/gui_core/gselect.py:1769
-#: ../gui/wxpython/gui_core/gselect.py:1809
-#: ../gui/wxpython/gui_core/gselect.py:1871
-#: ../gui/wxpython/gui_core/gselect.py:1916
+#: ../gui/wxpython/gui_core/gselect.py:1773
+#: ../gui/wxpython/gui_core/gselect.py:1813
+#: ../gui/wxpython/gui_core/gselect.py:1875
+#: ../gui/wxpython/gui_core/gselect.py:1920
 msgid "Creation options:"
 msgstr "Параметры создания:"
 
-#: ../gui/wxpython/gui_core/gselect.py:1786
-#: ../gui/wxpython/gui_core/gselect.py:1832
-#: ../gui/wxpython/gui_core/gselect.py:1897
+#: ../gui/wxpython/gui_core/gselect.py:1790
+#: ../gui/wxpython/gui_core/gselect.py:1836
+#: ../gui/wxpython/gui_core/gselect.py:1901
 msgid "Format:"
 msgstr "Формат:"
 
-#: ../gui/wxpython/gui_core/gselect.py:1905
+#: ../gui/wxpython/gui_core/gselect.py:1909
 msgid "Protocol:"
 msgstr "Протокол:"
 
-#: ../gui/wxpython/gui_core/gselect.py:1934
+#: ../gui/wxpython/gui_core/gselect.py:1938
 msgid "No settings available"
 msgstr "Параметры недоступны"
 
-#: ../gui/wxpython/gui_core/gselect.py:2066
+#: ../gui/wxpython/gui_core/gselect.py:2070
 #: ../gui/wxpython/web_services/dialogs.py:302
 msgid "No data source defined, settings are not saved."
 msgstr "Источник данных не определён, параметры не сохранены."
 
-#: ../gui/wxpython/gui_core/gselect.py:2098
+#: ../gui/wxpython/gui_core/gselect.py:2102
 msgid "PostgreSQL/PostGIS login was not set. Set it via <db.login> module, please."
 msgstr ""
 
-#: ../gui/wxpython/gui_core/gselect.py:2253
+#: ../gui/wxpython/gui_core/gselect.py:2257
 #, python-brace-format
 msgid "Getting raster <{table}> SRID from PostgreSQL DB <{db}>, host <{host}> failed. {error}."
 msgstr ""
 
-#: ../gui/wxpython/gui_core/gselect.py:2508
+#: ../gui/wxpython/gui_core/gselect.py:2512
 #, python-brace-format
 msgid "Getting list of tables from PostgreSQL DB <{db}>, host <{host}> failed. {error}."
 msgstr ""
 
-#: ../gui/wxpython/gui_core/gselect.py:2597
+#: ../gui/wxpython/gui_core/gselect.py:2601
 #, python-brace-format
 msgid "Getting list of tables columns data types from PostGIS DB <{db}>, host <{host}> failed. {error}."
 msgstr ""
 
-#: ../gui/wxpython/gui_core/gselect.py:2628
+#: ../gui/wxpython/gui_core/gselect.py:2632
 #, python-brace-format
 msgid "PostgreSQL DB <{psql}> program was not found. Please, install it."
 msgstr ""
 
-#: ../gui/wxpython/gui_core/gselect.py:2648
+#: ../gui/wxpython/gui_core/gselect.py:2652
 #: ../gui/wxpython/modules/import_export.py:506
 msgid "The Python GDAL package is missing. Please install it."
 msgstr ""
 
-#: ../gui/wxpython/gui_core/gselect.py:2769
+#: ../gui/wxpython/gui_core/gselect.py:2773
 msgid "LineString"
 msgstr "Строки линии"
 
-#: ../gui/wxpython/gui_core/gselect.py:2769
+#: ../gui/wxpython/gui_core/gselect.py:2773
 #: ../gui/wxpython/psmap/dialogs.py:6221 ../gui/wxpython/psmap/toolbars.py:103
 #: ../gui/wxpython/vdigit/preferences.py:729
 msgid "Point"
 msgstr "Точка"
 
-#: ../gui/wxpython/gui_core/gselect.py:2769
+#: ../gui/wxpython/gui_core/gselect.py:2773
 msgid "Polygon"
 msgstr "Полигон"
 
-#: ../gui/wxpython/gui_core/gselect.py:2982
+#: ../gui/wxpython/gui_core/gselect.py:2986
 msgid "No vector map selected in layer manager. Operation canceled."
 msgstr "Векторная карта в диспетчере слоёв не выбрана. Операция отменена."
 
-#: ../gui/wxpython/gui_core/gselect.py:3001
+#: ../gui/wxpython/gui_core/gselect.py:3005
 msgid "Input vector map is not selected"
 msgstr "Входная векторная карта не выбрана"
 
-#: ../gui/wxpython/gui_core/gselect.py:3005
+#: ../gui/wxpython/gui_core/gselect.py:3009
 #, python-format
 msgid "Input vector map <%s> and selected map <%s> in layer manager are different. Operation canceled."
 msgstr "Входная векторная карта <%s> и карта <%s>, выбранная в диспетчере слоёв, отличаются друг от друга. Операция отменена."
 
-#: ../gui/wxpython/gui_core/gselect.py:3121
+#: ../gui/wxpython/gui_core/gselect.py:3125
 #, python-format
 msgid "Unable to import C imagery library functions: %s\n"
 msgstr "Не удалось импортировать функции изображений библиотеки C: %s\n"
 
-#: ../gui/wxpython/gui_core/gselect.py:3199
+#: ../gui/wxpython/gui_core/gselect.py:3203
 msgid "No vector map selected"
 msgstr "Векторные карты не выбраны"
 
@@ -15618,34 +15618,6 @@ msgstr ""
 "Уравнение регрессии для растровых карт <%(rast1)s> и <%(rast2)s>:\n"
 "\n"
 
-#, fuzzy
-#~ msgid "Do you want to create a new project (also known as location)?"
-#~ msgstr "Создать область?"
-
-#, fuzzy
-#~ msgid "Create project?"
-#~ msgstr "Создание области"
-
-#~ msgid "Restrict edits to the current mapset only"
-#~ msgstr "Ограничить изменения только текущим набором"
-
-#~ msgid "Allow edits outside of the current mapset"
-#~ msgstr "Позволять внесение изменений вне текущего набора"
-
-#~ msgid "Add existing or create new database"
-#~ msgstr "Добавить существующую или создать новую базу данных"
-
-#, fuzzy
-#~ msgid "Create new project (location) in current GRASS database"
-#~ msgstr "Создать новую область в текущей базе данных GRASS"
-
-#, fuzzy
-#~ msgid "Download sample project (location) to current GRASS database"
-#~ msgstr "Загрузить область выборки в текущую базу данных GRASS"
-
-#~ msgid "GRASS GIS"
-#~ msgstr "ГИС GRASS"
-
 #~ msgid " Feature type: "
 #~ msgstr " Тип объекта: "
 
@@ -15849,6 +15821,9 @@ msgstr ""
 #~ msgid "Add default servers"
 #~ msgstr "Добавить серверы по умолчанию"
 
+#~ msgid "Add existing or create new database"
+#~ msgstr "Добавить существующую или создать новую базу данных"
+
 #~ msgid "Add imported layers into layer tree ({mightNotWork})"
 #~ msgstr "Добавить импортированные слои в дерево слоёв ({mightNotWork})"
 
@@ -15935,6 +15910,9 @@ msgstr ""
 
 #~ msgid "Allocates subnets for nearest centers. Center node must be opened (costs >= 0). Costs of center node are used in calculation."
 #~ msgstr "Определяет подсети для ближайших центров. Центральный узел должен быть открыт (costs >= 0). Стоимости центрального узла используются в вычислениях."
+
+#~ msgid "Allow edits outside of the current mapset"
+#~ msgstr "Позволять внесение изменений вне текущего набора"
 
 #~ msgid "Allows creation and/or modification of raster map layer support files."
 #~ msgstr "Создание и/или модификация вспомогательных файлов для растровых слоев карты."
@@ -16563,6 +16541,10 @@ msgstr ""
 #~ msgid "Create new project (location)"
 #~ msgstr "Создание новой области"
 
+#, fuzzy
+#~ msgid "Create new project (location) in current GRASS database"
+#~ msgstr "Создать новую область в текущей базе данных GRASS"
+
 #~ msgid "Create new workspace"
 #~ msgstr "Создать новый проект"
 
@@ -16574,6 +16556,10 @@ msgstr ""
 
 #~ msgid "Create points/segments"
 #~ msgstr "Создание точек/сегментов"
+
+#, fuzzy
+#~ msgid "Create project?"
+#~ msgstr "Создание области"
 
 #~ msgid "Create stationing"
 #~ msgstr "Создание представления сети опорных точек"
@@ -16889,6 +16875,10 @@ msgstr ""
 #~ msgid "Do you want to create GRASS location <%s>?"
 #~ msgstr "Вы хотите создать новую область GRASS <%s>?"
 
+#, fuzzy
+#~ msgid "Do you want to create a new project (also known as location)?"
+#~ msgstr "Создать область?"
+
 #~ msgid "Do you want to import {}to the newly created location?"
 #~ msgstr "Импортировать {}во вновь созданную область?"
 
@@ -16915,6 +16905,10 @@ msgstr ""
 
 #~ msgid "Download sample location"
 #~ msgstr "Загрузить пример области"
+
+#, fuzzy
+#~ msgid "Download sample project (location) to current GRASS database"
+#~ msgstr "Загрузить область выборки в текущую базу данных GRASS"
 
 #~ msgid "Downloads and imports data from OGC WMS and OGC WMTS web mapping servers."
 #~ msgstr "Загрузка и импорт данных с серверов картографических веб-служб OGC WMS и OGC WMTS."
@@ -17241,6 +17235,9 @@ msgstr ""
 
 #~ msgid "GPS data import"
 #~ msgstr "Импорт данных GPS"
+
+#~ msgid "GRASS GIS"
+#~ msgstr "ГИС GRASS"
 
 #, python-format
 #~ msgid "GRASS GIS %s Startup%s"
@@ -18673,6 +18670,9 @@ msgstr ""
 
 #~ msgid "Rescales the range of category values in a raster map layer."
 #~ msgstr "Изменяет диапазон значений категорий в растровом слое карты."
+
+#~ msgid "Restrict edits to the current mapset only"
+#~ msgstr "Ограничить изменения только текущим набором"
 
 #~ msgid "Richness"
 #~ msgstr "Богатство"

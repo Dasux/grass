@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grasslibs_lv\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-15 15:40+0000\n"
+"POT-Creation-Date: 2026-03-01 17:35+0000\n"
 "PO-Revision-Date: 2025-08-23 20:18+0000\n"
 "Last-Translator: Edouard Choiniere <echoix@users.noreply.weblate.osgeo.org>\n"
 "Language-Team: Latvian <https://weblate.osgeo.org/projects/grass-gis/grasslibs/lv/>\n"
@@ -8972,10 +8972,6 @@ msgstr ""
 msgid "Unknown query tool"
 msgstr ""
 
-#, fuzzy, c-format
-#~ msgid "Unable to seek: %s"
-#~ msgstr "Nevar aizvākt %s"
-
 #~ msgid "Area computation is not supported for LL projections"
 #~ msgstr "Objekta id"
 
@@ -9067,6 +9063,10 @@ msgstr ""
 #, fuzzy, python-format
 #~ msgid "Unable to read band reference file for raster map <%s>"
 #~ msgstr "Nav iespējams nolasīt rastra kartes <%s> krāsu failu"
+
+#, fuzzy, c-format
+#~ msgid "Unable to seek: %s"
+#~ msgstr "Nevar aizvākt %s"
 
 #, fuzzy, python-format
 #~ msgid "Unable to write band identifier for raster map <%s>"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grasslibs_pt_BR\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-15 15:40+0000\n"
+"POT-Creation-Date: 2026-03-01 17:35+0000\n"
 "PO-Revision-Date: 2025-08-26 13:42+0000\n"
 "Last-Translator: Edouard Choiniere <echoix@users.noreply.weblate.osgeo.org>\n"
 "Language-Team: Portuguese (Brazil) <https://weblate.osgeo.org/projects/grass-gis/grasslibs/pt_BR/>\n"
@@ -9126,16 +9126,6 @@ msgstr "A área %d não tem fronteiras"
 msgid "Unknown query tool"
 msgstr "Ferramenta de consulta desconhecida"
 
-#, c-format
-#~ msgid "Unable to seek: %s"
-#~ msgstr "Não foi possível procurar: %s"
-
-#~ msgid "disabled"
-#~ msgstr "desativado"
-
-#~ msgid "enabled"
-#~ msgstr "ativado"
-
 #, python-format
 #~ msgid ""
 #~ "\n"
@@ -10390,6 +10380,10 @@ msgstr "Ferramenta de consulta desconhecida"
 #~ msgid "Unable to restore feature/offset %"
 #~ msgstr "Não foi possível restaurar feição/offset %"
 
+#, c-format
+#~ msgid "Unable to seek: %s"
+#~ msgstr "Não foi possível procurar: %s"
+
 #, python-format
 #~ msgid "Unable to set the color rules for raster map <%s>."
 #~ msgstr "Não foi possível definir regras de cores para o mapa raster <%s>."
@@ -10552,6 +10546,12 @@ msgstr "Ferramenta de consulta desconhecida"
 
 #~ msgid "color"
 #~ msgstr "cor"
+
+#~ msgid "disabled"
+#~ msgstr "desativado"
+
+#~ msgid "enabled"
+#~ msgstr "ativado"
 
 #~ msgid "grass.script.array.read is deprecated and does not work on MS Windows, pass raster name in the constructor"
 #~ msgstr "grass.script.array.read está obsoleto e não funciona no MS Windows, passe o nome raster no construtor"
