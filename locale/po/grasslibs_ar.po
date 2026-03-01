@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: grassmods_ar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-15 15:40+0000\n"
+"POT-Creation-Date: 2026-03-01 17:30+0000\n"
 "PO-Revision-Date: 2025-08-23 20:17+0000\n"
 "Last-Translator: Edouard Choiniere <echoix@users.noreply.weblate.osgeo.org>\n"
 "Language-Team: Arabic <https://weblate.osgeo.org/projects/grass-gis/grasslibs/ar/>\n"
@@ -9307,10 +9307,6 @@ msgstr "غير موجود'%s' الفيكتور"
 msgid "Unknown query tool"
 msgstr "مسقط غير معروف"
 
-#, fuzzy, c-format
-#~ msgid "Unable to seek: %s"
-#~ msgstr " %s لم يمكن فتح"
-
 #, fuzzy, python-format
 #~ msgid "%s map <%s> not found in GRASS spatial database"
 #~ msgstr "'%s'الى '%s'لم يمكن نسخ فيكتور"
@@ -9948,6 +9944,10 @@ msgstr "مسقط غير معروف"
 #, fuzzy
 #~ msgid "Unable to rewrite feature/offset %"
 #~ msgstr "لم يمكن فتحه %s فى %s"
+
+#, fuzzy, c-format
+#~ msgid "Unable to seek: %s"
+#~ msgstr " %s لم يمكن فتح"
 
 #, fuzzy, python-format
 #~ msgid "Unable to set the color rules for raster map <%s>."
